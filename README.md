@@ -61,15 +61,23 @@ No arquivo *aux/feedback.txt* você deverá escrever um
 feedback sobre o projeto feito, o que pode ser melhorado
 nesse desafio, o que o deixou satisfeito, etc.
 
-## Ajuda
+## Como começar?
 
-Qualquer dúvida deverá ser mandada para o organizador 
-desse desafio.
+Dê um fork nesse repositório e comece o trabalho!
+
+## O que devo entregar?
+
+Apenas o link do repositório para o email do organizador
 
 Atualmente:
 
 ```
 seiji@curtirsuacidade.com.br
 ```
+
+## Ajuda
+
+Qualquer dúvida deverá ser mandada para o organizador 
+desse desafio.
 
 ## Boa Sorte :)
