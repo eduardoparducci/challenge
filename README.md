@@ -1,4 +1,4 @@
-# Curtir Sua Cidade Challenge
+# Curtir Sua Cidade - The Challenge
 
 Bem vindo ao desafio do curtir sua cidade :). 
 
