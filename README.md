@@ -30,20 +30,20 @@ começar um.
 ## Quanto tempo tenho para fazer?
 
 O periodo desse desafio é indefinido, mas você deve marcar
-o horário gasto nele no arquivo *aux/time.txt*.
+o horário gasto nele no arquivo *aux/time.log*.
 
 É recomendado que pelo menos 20 horas sejam gastas nesse
 projeto, e não mais de 100 horas.
 
 ## Sobre as tecnologias
 
-No arquivo *aux/tech.txt* você deverá documentar todas as 
+No arquivo *aux/tech.log* você deverá documentar todas as 
 tecnologia usadas. Como IDE, bibliotecas, frameworks, 
 até SO e navegador.
 
 ## Sobre seu projeto
 
-No arquivo *aux/project.txt* você deverá documentar como
+No arquivo *aux/project.log* você deverá documentar como
 foi organizado o desenvolvimento do projeto. Como, 
 por exemplo, onde foi feito o projeto, 
 como foi organizado o tempo, quais tutoriais foram lidos, 
@@ -51,13 +51,13 @@ etc.
 
 ## Sobre suas dificuldades
 
-No arquivo *aux/ohno.txt* você deverá documentar as 
+No arquivo *aux/ohno.log* você deverá documentar as 
 dificuldades encontradas durante o projeto. Como tecnologias,
 tempo, imprevistos, documentação, etc.
 
 ## Feedback
 
-No arquivo *aux/feedback.txt* você deverá escrever um 
+No arquivo *aux/feedback.log* você deverá escrever um 
 feedback sobre o projeto feito, o que pode ser melhorado
 nesse desafio, o que o deixou satisfeito, etc.
 
