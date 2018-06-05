@@ -61,3 +61,6 @@ MongoDB:
  * [conceito](https://docs.mongodb.com/manual/introduction/)
  * [iniciando](https://docs.mongodb.com/manual/installation/)
  * [operações](https://docs.mongodb.com/manual/tutorial/getting-started/)
+
+Não se esqueça de documentar todos os tutoriais usados em
+*aux/project.txt*
