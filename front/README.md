@@ -49,4 +49,4 @@ Design:
 
 Tutoriais para outras tecnologias estarão à sua conta.
 Não se esqueça de documentar todos os tutoriais usados em
-*aux/project.txt*
+*aux/project.log*
