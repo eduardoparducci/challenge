@@ -1,1 +1,7 @@
-[como foi feito o projeto?]
+10/10/2018 - (Aprendizado) Leitura dos tutoriais nodeJS e e mongoDB:
+	   Implementação de exemplos
+	   
+22/10/2018 - (Aprendizado) Leitura de Banco de dados através do nodeJS:
+	   Implementação de rotina de leitura de Banco de Dados
+	   Execução de main.js
+	   	   Obs: Remoção de *Warning - URL* em mongoose.connect('local',{ useNewUrlParser: true })

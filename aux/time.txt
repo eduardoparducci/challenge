@@ -1,2 +1,9 @@
-XX:XX horas
-teste
+
+Data:10/10/2018
+HORARIO		CONTEÚDO		SALDO
+14:35~15:05	NodeJS Tutorial		0:30
+19:55~21:15	NodeJS & mongoDB	1:20
+
+Data:22/10/2018
+HORARIO		CONTEÚDO		SALDO
+16:00~20:00	Mongoose 		4:00

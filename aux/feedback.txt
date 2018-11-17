@@ -1,1 +1,3 @@
 [feedback sobre o desafio]
+Remoção de Warning ao rodar main.js adicionando parametro { useNewUrlParser: true } em mongoose.connect() - linha 14.
+
