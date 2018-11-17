@@ -5,3 +5,4 @@
 	   Implementação de rotina de leitura de Banco de Dados
 	   Execução de main.js
 	   	   Obs: Remoção de *Warning - URL* em mongoose.connect('local',{ useNewUrlParser: true })
+24/10/2018 - Otimização do Back end utilizando o comando aggregate
