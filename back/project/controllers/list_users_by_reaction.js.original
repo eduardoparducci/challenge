@@ -1,6 +1,6 @@
 module.exports = async function(base, by_text, by_reaction) {
     try{
-        let users = []
+	        let users = []
         let found_posts = await base.posts.find({
             title: new RegExp(by_text, 'g'),
             text: new RegExp(by_text, 'g')
